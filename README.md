@@ -31,3 +31,11 @@
 Proyecto basado en el siguiente artículo.
 
 https://testdriven.io/blog/django-custom-user-model/
+
+### Algunas capturas de pantalla
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/RCSz46v/01.png" alt="01" border="0" /></a>
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/zSWYKMr/02.png" alt="02" border="0" /></a>
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/314979D/03.png" alt="03" border="0" /></a>
