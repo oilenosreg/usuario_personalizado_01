@@ -28,6 +28,6 @@
     http://localhost:8000
     ```
     
-Proyecto basado en el siguiente artículo, las gracias y reconocimiento a su trabajo.
+Proyecto basado en el siguiente artículo.
 
 https://testdriven.io/blog/django-custom-user-model/
